@@ -1,4 +1,4 @@
 vim-scriptnames-find
 ====================
 
-filter :scriptnames results by name
+filter `:scriptnames` results by name
